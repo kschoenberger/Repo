@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 ############
 ## Project: ANTA - ANANAS Network Traffic Analysis
 ##          Testing dpkt for its suitability
